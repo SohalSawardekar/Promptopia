@@ -1,4 +1,4 @@
-###Credits: JavaScript Mastery
+##Credits: JavaScript Mastery
 [Watch the video](https://youtu.be/wm5gMKuwSYk?si=zvjwn3mE0-PVJNd9)
 
 **Cloning the Repository**
